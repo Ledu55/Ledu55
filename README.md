@@ -27,13 +27,40 @@
 <br />
 <br />
 
-</details>
+---
+# Projetos
 
+## Data Science & Machine Learning
+
+### [Anime Recommender][animerecomender]
+Juntando uma paixão pessoal e os conhecimentos de datascience 
+concluí aplicativo de recomendação de animes baseado no meu 
+histórico de visualizações.
+
+Skills:
+- API, Amazon RDS, Python (Pandas, Sklearn, Numpy, Flask...), MySQL, Docker, Heroku.
+
+## Data Analytics & Dashboards
+
+### [Covid Dashboard][coviddash]
+Entendendo os principais indicadores da Covid19 e o impacto 
+da vacinação no cenário mundial.
+
+[Acesse o dashboard aqui][pbcovid]
+
+Skills:
+- SQL, PowerBi.
+
+
+---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ledu55&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+
 
 
 
 [Linkedin]: https://www.linkedin.com/in/lecn5/
 [project]: https://github.com/Ledu55/Sql_Covid_Project
+[animerecomender]: https://github.com/Ledu55/animeRecommender
+[coviddash]: https://github.com/Ledu55/Sql_Covid_Project
+[pbcovid]: https://app.powerbi.com/view?r=eyJrIjoiNmFmNWM0YTAtMjA3OC00ZDI5LWJlNGMtMWI1Y2JhNDJhODQ1IiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9
