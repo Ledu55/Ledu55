@@ -1,10 +1,10 @@
-### Olá! meu nome é [Luís][Linkedin]!
+### Olá! Meu nome é [Luís][Linkedin]!
 
 ## Sou um Analista de Dados Júnior!
 
 - 🥅 Atualmente estou trabalhando neste [projeto][project]!
 - 🌱 Continuo aprendendo todos os dias;
-- 🔭Estou em busca de oportunidades que apoem meu desenvolvimento na área de dados.
+- 🔭Estou em busca de oportunidades que apoiem meu desenvolvimento na área de dados.
 
 ### Conecte-se comigo:
 [<img align="left" alt= "Luís | Linkedin" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][Linkedin]
@@ -12,7 +12,7 @@
 <br />
 <br />
 
-### Linguagens e Programas:
+### Tecnologias:
 <img align="left" alt= "Luís | Python" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
 <img align="left" alt= "Luís | MySQL" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" />
 <img align="left" alt= "Luís | PowerBi" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/powerbi.svg" />
