@@ -46,11 +46,20 @@ Skills:
 Entendendo os principais indicadores da Covid19 e o impacto 
 da vacinação no cenário mundial.
 
-[Acesse o dashboard aqui][pbcovid]
+[Acesse o Dashboard Aqui][pbcovid]
 
 Skills:
 - SQL, PowerBi.
 
+### [HR Attrition Dashboard][project]
+
+Entendendo quais fatores podem influenciar no surgimento de conflitos dentro da empresa e 
+criando um dashboard que permita a exploração dos dados.
+
+[Acesse o Dashboard Aqui][rhdashboard]
+
+Skills:
+- Python, PowerBi.
 
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ledu55&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
@@ -60,7 +69,8 @@ Skills:
 
 
 [Linkedin]: https://www.linkedin.com/in/lecn5/
-[project]: https://github.com/Ledu55/Sql_Covid_Project
+[project]: https://github.com/Ledu55/An-lise-de-Conflitos
 [animerecomender]: https://github.com/Ledu55/animeRecommender
 [coviddash]: https://github.com/Ledu55/Sql_Covid_Project
 [pbcovid]: https://app.powerbi.com/view?r=eyJrIjoiNmFmNWM0YTAtMjA3OC00ZDI5LWJlNGMtMWI1Y2JhNDJhODQ1IiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9
+[rhdashboard]: https://app.powerbi.com/view?r=eyJrIjoiOWRhNWRjZjktYTMzZi00YjUwLWI5OTMtYzBlODA3ODM5YTFjIiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9&pageName=ReportSection
