@@ -1,6 +1,6 @@
 ### Olá! Meu nome é [Luís][Linkedin]!
 
-## Sou um Analista de Dados Júnior!
+## Sou um Analista de Dados!
 
 - 🥅 Atualmente estou trabalhando neste [projeto][project]!
 - 🌱 Continuo aprendendo todos os dias;
