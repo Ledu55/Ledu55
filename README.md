@@ -36,11 +36,6 @@ Skills:
 
 ## Data Analytics & Dashboards
 
-[Acesse o Dashboard Aqui][pbcovid]
-
-Skills:
-- SQL, PowerBi.
-
 ### [HR Attrition Dashboard][project]
 
 Entendendo quais fatores podem influenciar no surgimento de conflitos dentro da empresa e 
@@ -53,7 +48,6 @@ Skills:
 
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ledu55&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 
 
 [Linkedin]: https://www.linkedin.com/in/lecn5/
