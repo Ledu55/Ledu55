@@ -2,8 +2,6 @@
 
 ## Sou um Analytics Engineer!
 
-- 🥅 Atualmente estou trabalhando neste [projeto][project]!
-- 🌱 Continuo aprendendo todos os dias;
 
 ### Conecte-se comigo:
 [<img align="left" alt= "Luís | Linkedin" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][Linkedin]
