@@ -47,6 +47,9 @@ I work in data engineering and analytics: Spark and Databricks pipelines, data m
 **[HR Attrition Dashboard][project]**: factors linked to workplace conflict and employee turnover at a company, with an exploratory dashboard. [See the dashboard][rhdashboard]
 `Python` `Power BI`
 
+**[COVID-19 Dashboard][covid]**: tracks the main COVID-19 indicators and how vaccination affected the pandemic. Data from Our World in Data, explored with SQL in SQL Server, and shown in a Power BI dashboard connected through DirectQuery. [See the dashboard][coviddashboard]
+`SQL` `SQL Server` `Power BI`
+
 ### Other
 
 **[PyTorrent][pytorrent]**: a lightweight BitTorrent client with a web interface and real-time updates (SSE).
@@ -62,5 +65,7 @@ I work in data engineering and analytics: Spark and Databricks pipelines, data m
 [animepicks]: https://ledu55.github.io/animeRecommender/
 [btg]: https://github.com/Ledu55/btg_fixed_income_analyzer
 [project]: https://github.com/Ledu55/An-lise-de-Conflitos
+[covid]: https://github.com/Ledu55/Sql_Covid_Project
+[coviddashboard]: https://app.powerbi.com/view?r=eyJrIjoiNmFmNWM0YTAtMjA3OC00ZDI5LWJlNGMtMWI1Y2JhNDJhODQ1IiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9
 [pytorrent]: https://github.com/Ledu55/pytorrent
 [rhdashboard]: https://app.powerbi.com/view?r=eyJrIjoiOWRhNWRjZjktYTMzZi00YjUwLWI5OTMtYzBlODA3ODM5YTFjIiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9&pageName=ReportSection
