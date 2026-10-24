@@ -1,12 +1,12 @@
-# Olá! Eu sou o Luís 👋
+# Hi! I'm Luís 👋
 
-**Senior Analytics Engineer** na [Thoughtworks](https://www.thoughtworks.com/) · Databricks Certified Data Engineer Professional
+**Senior Analytics Engineer** at [Thoughtworks](https://www.thoughtworks.com/) · Databricks Certified Data Engineer Professional
 
-Trabalho com engenharia e análise de dados: pipelines em Spark e Databricks, modelagem para analytics e cloud AWS. Nas horas vagas, aplico os mesmos métodos em games, investimentos e outras curiosidades.
+I work in data engineering and analytics: Spark and Databricks pipelines, data modeling for analytics, and AWS. In my spare time, I apply the same methods to games, investing and other things I'm curious about.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lecn5-0A66C2?style=flat&logo=linkedin&logoColor=white)][Linkedin]
 
-### Tecnologias
+### Tech stack
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
@@ -19,7 +19,7 @@ Trabalho com engenharia e análise de dados: pipelines em Spark e Databricks, mo
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Certificações
+### Certifications
 
 - Databricks Certified Data Engineer Professional (2026)
 - Databricks: Build Data Pipelines with Delta Live Tables (2025)
@@ -27,35 +27,29 @@ Trabalho com engenharia e análise de dados: pipelines em Spark e Databricks, mo
 
 ---
 
-## Projetos
+## Projects
 
-### Ciência de dados e estatística
+### Data science and statistics
 
-**[lol-flex-vs-solo][lolflex]**: os jogadores Master+ da fila flex do League of Legends são piores que os da solo/duo? Coleta pela Riot API, um score de desempenho por partida (regressão logística por rota) e testes de hipótese pareados e não pareados.
+**[lol-flex-vs-solo][lolflex]**: are Master+ players in League of Legends' flex queue worse than those in solo/duo? Data is collected from the Riot API. Each match gets a performance score from a per-role logistic regression, and the queues are compared with paired and unpaired hypothesis tests.
 `Python` `SQLite` `statsmodels` `Riot API`
 
-**[Dota 2 Prediction][dota]**: previsão de resultado de partidas de Dota 2.
-`Python`
+**[Anime Recommender][animerecommender]**: recommends anime based on my MyAnimeList history. A LightGBM and logistic regression ensemble learns from my scores and from a rating page that uses active learning. The picks are refreshed every week on GitHub Pages. [See the picks][animepicks]
+`Python` `scikit-learn` `LightGBM` `Flask` `GitHub Actions`
 
-**[Anime Recommender][animerecomender]**: sistema de recomendação de animes baseado no meu histórico, servido por uma API.
-`Python` `Scikit-learn` `Flask` `MySQL` `Amazon RDS` `Docker`
+### Finance
 
-### Finanças
+**[BTG Fixed Income Analyzer][btg]**: a Chrome extension that ranks fixed-income products by net return, using SELIC, CDI and IPCA rates from Brazil's Central Bank.
+`JavaScript` `Chrome Extension` `BCB API`
 
-**[Portfolio Tracker][portfolio]**: gestão de carteira de investimentos com cotações via yfinance.
-`FastAPI` `SQLAlchemy` `PostgreSQL` `React` `TypeScript` `TailwindCSS`
+### Analytics and dashboards
 
-**[BTG Fixed Income Analyzer][btg]**: extensão do Chrome que ranqueia produtos de renda fixa pelo retorno líquido, usando SELIC, CDI e IPCA do Banco Central.
-`JavaScript` `Chrome Extension` `API do BCB`
-
-### Analytics e dashboards
-
-**[HR Attrition Dashboard][project]**: fatores ligados a conflitos e rotatividade numa empresa, com um dashboard exploratório. [Ver dashboard][rhdashboard]
+**[HR Attrition Dashboard][project]**: factors linked to workplace conflict and employee turnover at a company, with an exploratory dashboard. [See the dashboard][rhdashboard]
 `Python` `Power BI`
 
-### Outros
+### Other
 
-**[PyTorrent][pytorrent]**: cliente BitTorrent leve com interface web e atualizações em tempo real (SSE).
+**[PyTorrent][pytorrent]**: a lightweight BitTorrent client with a web interface and real-time updates (SSE).
 `Python` `libtorrent` `FastAPI`
 
 ---
@@ -64,9 +58,8 @@ Trabalho com engenharia e análise de dados: pipelines em Spark e Databricks, mo
 
 [Linkedin]: https://www.linkedin.com/in/lecn5/
 [lolflex]: https://github.com/Ledu55/lol-flex-vs-solo
-[dota]: https://github.com/Ledu55/dota
-[animerecomender]: https://github.com/Ledu55/animeRecommender
-[portfolio]: https://github.com/Ledu55/portfolio-tracker
+[animerecommender]: https://github.com/Ledu55/animeRecommender
+[animepicks]: https://ledu55.github.io/animeRecommender/
 [btg]: https://github.com/Ledu55/btg_fixed_income_analyzer
 [project]: https://github.com/Ledu55/An-lise-de-Conflitos
 [pytorrent]: https://github.com/Ledu55/pytorrent
